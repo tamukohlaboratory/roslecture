@@ -1,4 +1,4 @@
-# aiseminar
+# roslecture
 
 ## What's this repository
 このレポジトリは，「ROS演習」の情報共有のために作られました．    
